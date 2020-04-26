@@ -18,7 +18,7 @@ namespace ConsoleApp
 
             Console.WriteLine(name + location);
 
-            Console.WriteLine("Press any key to quit");
+            Console.WriteLine("Press any key to quit now");
             Console.ReadKey();
 
             /* Date */
